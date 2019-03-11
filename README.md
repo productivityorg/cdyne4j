@@ -34,22 +34,27 @@ Licenses are required to use CDYNE's APIs.
 
 Execute one or more of the following in the bootstrap (one-time run at startup) code of your application:
 
+```
 CDYNEClient.getInstance().getSMSNotify().setLicenseKey("_put_license_key_here_");
 CDYNEClient.getInstance().getPhoneNotify().setLicenseKey("_put_license_key_here_");
 CDYNEClient.getInstance().getPhoneVerify().setLicenseKey("_put_license_key_here_");
 CDYNEClient.getInstance().getIP2Geo().setLicenseKey("_put_license_key_here_");
+```
 
 ## Getting Started:  Sending an SMS Message
 
+```
 SimpleSMSSendRq rq = new SimpleSMSSendRq();
 rq.setPhoneNumber("_put_cell_number_here_");
 rq.setMessage("_put_text_message_here");
 
 SimpleSMSSendRq rs = CDYNEClient.getInstance().getSMSNotify().send(rq);
 System.out.println(rs.isSuccess());
+```
 
 ## Getting Started:  Sending a Phone Notify Message
 
+```
 NotifyPhoneBasicRq rq = new NotifyPhoneBasicRq();
 rq.setPhoneNumberToDial("_put_phone_number_here_");
 rq.setTextToSay("A voice test.");
@@ -60,6 +65,7 @@ rq.setVoiceID(3);
 NotifyPhoneBasicRs rs = CDYNEClient.getInstance().getPhoneNotify().send(rq);
 System.out.println(rs.isSuccess());
 System.out.println(rs.getReferenceID());
+```
 
 ## License
 
