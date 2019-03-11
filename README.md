@@ -4,7 +4,7 @@ CDYNE4j is a Java library for accessing several APIs provided by the vendor CDYN
 
 ## Status
 
-As of December 12, 2016, I am working on cleaning up the code, creating JUnit test cases, and preparing it for push to github.
+Pending initial push.
 
 ## License
 
