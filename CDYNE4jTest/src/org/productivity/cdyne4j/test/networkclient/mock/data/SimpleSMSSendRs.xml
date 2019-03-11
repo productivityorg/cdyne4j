@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SMSResponse xmlns="http://sms2.cdyne.com" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Cancelled>false</Cancelled>
+  <MessageID>02f5fe9a-6bc3-4e72-994c-75484323c95d</MessageID>
+  <Queued>true</Queued>
+  <SMSError>NoError</SMSError>
+  <SMSIncomingMessages i:nil="true"/>
+  <Sent>false</Sent>
+  <SentDateTime>0001-01-01T00:00:00</SentDateTime>
+</SMSResponse>

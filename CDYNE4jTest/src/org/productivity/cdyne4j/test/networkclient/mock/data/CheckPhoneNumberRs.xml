@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhoneReturn xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ws.cdyne.com/PhoneVerify/query">
+  <Company>LEVEL 3 COMM - VA</Company>
+  <Valid>true</Valid>
+  <Use>Assigned to a code holder for normal use.</Use>
+  <State>VA</State>
+  <RC>NRFOLKZON2</RC>
+  <OCN>8825</OCN>
+  <OriginalNumber>7575449510</OriginalNumber>
+  <CleanNumber>7575449510</CleanNumber>
+  <SwitchName>CHSKVAAY0MD</SwitchName>
+  <SwitchType />
+  <Country>United States</Country>
+  <CLLI>NOCLLIKNOWN</CLLI>
+  <PrefixType>CLEC - (Competitive Local Exchange Carrier)</PrefixType>
+  <LATA>252</LATA>
+  <sms>PCS - (Preferred Carrier Service)</sms>
+  <Email>messaging.sprintpcs.com</Email>
+  <AssignDate>09/26/2005</AssignDate>
+  <TelecomCity>Norfolk</TelecomCity>
+  <TelecomCounty>Norfolk city</TelecomCounty>
+  <TelecomState>VA</TelecomState>
+  <TelecomZip>23510</TelecomZip>
+  <TimeZone>EST</TimeZone>
+  <Lat>36.8394</Lat>
+  <Long>-76.3412</Long>
+  <Wireless>true</Wireless>
+  <LRN>7576559199</LRN>
+</PhoneReturn>

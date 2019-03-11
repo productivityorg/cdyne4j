@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSMSIncomingMessage xmlns="http://sms2.cdyne.com" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<SMSIncomingMessage>
+		<FromPhoneNumber>15555551212</FromPhoneNumber>
+		<IncomingMessageID>5b13e5b8-b128-45e3-9deb-c1f7088ac67b</IncomingMessageID>
+		<MatchedMessageID>a7daf4ea-51a0-4737-a04d-81ec88ee6405</MatchedMessageID>
+		<Message>Test Response</Message>
+		<ResponseReceiveDate>2016-12-12T04:28:12.53</ResponseReceiveDate>
+		<ToPhoneNumber>15555552121</ToPhoneNumber>
+	</SMSIncomingMessage>
+</ArrayOfSMSIncomingMessage>

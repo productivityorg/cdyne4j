@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IPInformation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ws.cdyne.com/">
+  <City>Mountain View</City>
+  <StateProvince>CA</StateProvince>
+  <Country>United States</Country>
+  <Organization />
+  <Latitude>37.386</Latitude>
+  <Longitude>-122.0838</Longitude>
+  <AreaCode>650</AreaCode>
+  <TimeZone />
+  <HasDaylightSavings>false</HasDaylightSavings>
+  <Certainty>90</Certainty>
+  <RegionName />
+  <CountryCode>US</CountryCode>
+</IPInformation>

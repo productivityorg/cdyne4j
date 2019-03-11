@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSMSResponse xmlns="http://sms2.cdyne.com" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<SMSResponse>
+		<Cancelled>false</Cancelled>
+		<MessageID>5f5edf2d-f81a-49af-9649-d6337fa8782d</MessageID>
+		<Queued>true</Queued>
+		<ReferenceID>914846a9-6b8c-4525-831e-7abc27009f52</ReferenceID>
+		<SMSError>NoError</SMSError>
+		<SMSIncomingMessages i:nil="true"/>
+		<Sent>false</Sent>
+		<SentDateTime>0001-01-01T00:00:00</SentDateTime>
+		</SMSResponse>
+	<SMSResponse>
+		<Cancelled>false</Cancelled>
+		<MessageID>4d07e707-5a22-44d6-bcbf-7cbf4775ebd5</MessageID>
+		<Queued>true</Queued>
+		<ReferenceID>914846a9-6b8c-4525-831e-7abc27009f52</ReferenceID>
+		<SMSError>NoError</SMSError>
+		<SMSIncomingMessages i:nil="true"/>
+		<Sent>false</Sent>
+		<SentDateTime>0001-01-01T00:00:00</SentDateTime>
+	</SMSResponse>
+</ArrayOfSMSResponse>

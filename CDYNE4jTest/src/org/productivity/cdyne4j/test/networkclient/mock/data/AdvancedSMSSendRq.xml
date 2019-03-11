@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SMSAdvancedRequest xmlns="http://schemas.datacontract.org/2004/07/SmsWS">
+    <LicenseKey>fake-license-key</LicenseKey>
+    <Concatenate>true</Concatenate>
+    <IsUnicode>false</IsUnicode>
+    <SMSRequests>
+        <SMSRequest xmlns="http://sms2.cdyne.com">
+            <Message>Advanced SMS Test #1 Sun Dec 11 22:59:24 CST 2016</Message>
+            <PhoneNumbers>
+                <string xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">5555551212</string>
+            </PhoneNumbers>
+            <ReferenceID>914846a9-6b8c-4525-831e-7abc27009f52</ReferenceID>
+        </SMSRequest>
+        <SMSRequest xmlns="http://sms2.cdyne.com">
+            <Message>Advanced SMS Test #2 Sun Dec 11 22:59:24 CST 2016</Message>
+            <PhoneNumbers>
+                <string xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">5555552121</string>
+            </PhoneNumbers>
+            <ReferenceID>914846a9-6b8c-4525-831e-7abc27009f52</ReferenceID>
+        </SMSRequest>
+    </SMSRequests>
+</SMSAdvancedRequest>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVoice xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ws.cdyne.com/NotifyWS/">
+  <Voice>
+    <VoiceID>0</VoiceID>
+    <VoiceName>Diane</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>35</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>Diane - US English (Female - 35)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>1</VoiceID>
+    <VoiceName>David</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>David - US English (Male - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>2</VoiceID>
+    <VoiceName>William</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>William - US English (Male - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>3</VoiceID>
+    <VoiceName>Emily</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>Emily - US English (Female - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>4</VoiceID>
+    <VoiceName>Callie</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>Callie - US English (Female - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>5</VoiceID>
+    <VoiceName>Lawrence</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>55</VoiceAge>
+    <VoiceLanguage>UK English</VoiceLanguage>
+    <VoiceSummary>Lawrence - UK English (Male - 55)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>6</VoiceID>
+    <VoiceName>Millie</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>45</VoiceAge>
+    <VoiceLanguage>UK English</VoiceLanguage>
+    <VoiceSummary>Millie - UK English (Female - 45)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>7</VoiceID>
+    <VoiceName>Isabelle</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>Canadian French</VoiceLanguage>
+    <VoiceSummary>Isabelle - Canadian French (Female - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>8</VoiceID>
+    <VoiceName>Katrin</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>35</VoiceAge>
+    <VoiceLanguage>German</VoiceLanguage>
+    <VoiceSummary>Katrin - German (Female - 35)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>10</VoiceID>
+    <VoiceName>Vittoria</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>Italian</VoiceLanguage>
+    <VoiceSummary>Vittoria - Italian (Female - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>15</VoiceID>
+    <VoiceName>Jean-Pierre</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>Canadian French</VoiceLanguage>
+    <VoiceSummary>Jean-Pierre - Canadian French (Male - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>16</VoiceID>
+    <VoiceName>Allison</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>28</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>Allison - US English (Female - 28)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>17</VoiceID>
+    <VoiceName>Miguel</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>Americas Spanish</VoiceLanguage>
+    <VoiceSummary>Miguel - Americas Spanish (Male - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>18</VoiceID>
+    <VoiceName>Matthias</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>German</VoiceLanguage>
+    <VoiceSummary>Matthias - German (Male - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>19</VoiceID>
+    <VoiceName>Ashley</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>Ashley - US English (Female - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>20</VoiceID>
+    <VoiceName>James</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>US English</VoiceLanguage>
+    <VoiceSummary>James - US English (Male - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>23</VoiceID>
+    <VoiceName>Violeta</VoiceName>
+    <VoiceGender>Female</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>Mexican Spanish</VoiceLanguage>
+    <VoiceSummary>Violeta - Mexican Spanish (Female - 30)</VoiceSummary>
+  </Voice>
+  <Voice>
+    <VoiceID>24</VoiceID>
+    <VoiceName>Francisco</VoiceName>
+    <VoiceGender>Male</VoiceGender>
+    <VoiceAge>30</VoiceAge>
+    <VoiceLanguage>Mexican Spanish</VoiceLanguage>
+    <VoiceSummary>Francisco - Mexican Spanish (Male - 30)</VoiceSummary>
+  </Voice>
+</ArrayOfVoice>

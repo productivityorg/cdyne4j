@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ws.cdyne.com/NotifyWS/">
+  <Response>
+    <ResponseCode>0</ResponseCode>
+    <ResponseText>Queued</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>1</ResponseCode>
+    <ResponseText>Call Answered</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>2</ResponseCode>
+    <ResponseText>Call Unanswered</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>3</ResponseCode>
+    <ResponseText>Invalid Phone Number</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>4</ResponseCode>
+    <ResponseText>Invalid CallerID</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>5</ResponseCode>
+    <ResponseText>Invalid VoiceID</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>6</ResponseCode>
+    <ResponseText>Invalid Number to Transfer To</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>7</ResponseCode>
+    <ResponseText>Invalid Digit for Transfer</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>8</ResponseCode>
+    <ResponseText>Busy</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>9</ResponseCode>
+    <ResponseText>Universal Error</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>10</ResponseCode>
+    <ResponseText>Demo allowance exceeded.</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>11</ResponseCode>
+    <ResponseText>Demo not allowed</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>12</ResponseCode>
+    <ResponseText>Dialing</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>13</ResponseCode>
+    <ResponseText>CallerID and PhoneNumber To Dial cannot match.</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>14</ResponseCode>
+    <ResponseText>Key Invalid.  IP Address has been suspended.</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>15</ResponseCode>
+    <ResponseText>Phone Number Abuse</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>16</ResponseCode>
+    <ResponseText>Scheduled Time is not a UTC date/time</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>17</ResponseCode>
+    <ResponseText>http://wiki.cdyne.com/index.php/SiteBan</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>18</ResponseCode>
+    <ResponseText>Ringing</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>19</ResponseCode>
+    <ResponseText>Trying</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>20</ResponseCode>
+    <ResponseText>Call is being Forwarded</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>21</ResponseCode>
+    <ResponseText>In Call/Ringing</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>22</ResponseCode>
+    <ResponseText>Cancelled</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>23</ResponseCode>
+    <ResponseText>Sound File Not Found</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>24</ResponseCode>
+    <ResponseText>Transferred</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>25</ResponseCode>
+    <ResponseText>Transfer Failed</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>26</ResponseCode>
+    <ResponseText>Caller Hung up during transfer</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>27</ResponseCode>
+    <ResponseText>Administrative Hold</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>28</ResponseCode>
+    <ResponseText>Call Forbidden</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>29</ResponseCode>
+    <ResponseText>Incoming Call</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>30</ResponseCode>
+    <ResponseText>Incoming Call Complete</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>31</ResponseCode>
+    <ResponseText>Incoming Call Transferred</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>32</ResponseCode>
+    <ResponseText>TTS Error</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>33</ResponseCode>
+    <ResponseText>Time Restriction</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>34</ResponseCode>
+    <ResponseText>Congestion/Service Unavail</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>35</ResponseCode>
+    <ResponseText>Global Not Acceptable</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>36</ResponseCode>
+    <ResponseText>No Supported Media</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>37</ResponseCode>
+    <ResponseText>Telecom Timeout</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>38</ResponseCode>
+    <ResponseText>Telecom Denied</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>39</ResponseCode>
+    <ResponseText>Demo Denied due to FTC regulations</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>40</ResponseCode>
+    <ResponseText>TTS Busy - Will Try Again</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>41</ResponseCode>
+    <ResponseText>Conference Start</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>42</ResponseCode>
+    <ResponseText>Conference Join</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>43</ResponseCode>
+    <ResponseText>Telco Reported Vacant Number</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>44</ResponseCode>
+    <ResponseText>Number Changed or Disconnected</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>45</ResponseCode>
+    <ResponseText>Sound File Processing</ResponseText>
+  </Response>
+  <Response>
+    <ResponseCode>46</ResponseCode>
+    <ResponseText>Ready for Dialer</ResponseText>
+  </Response>
+</ArrayOfResponse>
