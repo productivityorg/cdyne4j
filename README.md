@@ -26,7 +26,7 @@ Contact CDYNE.com for more information on pricing on use of their APIs.
 
 ## Getting Started:  Prerequisites
 
-CDYNE4j requires Oracle Java 8 or higher.  No third party JARs are required for default functionality.
+CDYNE4j requires Oracle Java 8 or higher (or equivalent OpenJDK).  No third party JARs are required for default functionality.
 
 ## Getting Started:  Setting Your License Keys
 
