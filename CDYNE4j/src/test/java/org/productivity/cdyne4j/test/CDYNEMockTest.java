@@ -72,7 +72,7 @@ import org.productivity.cdyne4j.test.networkclient.mock.MockCDYNENetworkClient;
  * 
  * @author Justin Yunke <justin-github@yunke.us>
  */
-public class CDYNEMockTests {
+public class CDYNEMockTest {
 	private CDYNEClient c = null;
 	
 	@BeforeClass
