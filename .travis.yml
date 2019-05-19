@@ -1,3 +1,5 @@
 language: java
-script: mvn test -B ./CDYNE4j/pom.xml
+script: 
+   - cd CDYNE4j
+   - mvn test -B
 
