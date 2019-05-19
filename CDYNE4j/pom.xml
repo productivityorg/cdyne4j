@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.productivity</groupId>
   <artifactId>cdyne4j</artifactId>
-  <version>0.9.0</version>
+  <version>0.9.1</version>
   <build>
     <sourceDirectory>src/main/java</sourceDirectory>
     <resources>
@@ -31,5 +31,17 @@
     <version>4.12</version>
     <scope>test</scope>
 </dependency>
+  	<dependency>
+  		<groupId>org.apache.httpcomponents</groupId>
+  		<artifactId>httpclient</artifactId>
+  		<version>4.5</version>
+  		<scope>provided</scope>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.apache.httpcomponents</groupId>
+  		<artifactId>httpcore</artifactId>
+  		<version>4.4</version>
+  		<scope>provided</scope>
+  	</dependency>
   </dependencies>
 </project>

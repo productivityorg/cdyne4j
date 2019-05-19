@@ -20,7 +20,7 @@ Advanced functionality includes:
 
 Before using this library, you will need to acquire license keys from CDYNE.com.
 
-Test licenses which support limited functionality are available immediately by registering here:  https://secure.cdyne.com/support/register.aspx
+Test licenses which support limited functionality are available immediately by registering here:  https://www.cdyne.com/register
 
 Contact CDYNE.com for more information on pricing on use of their APIs.
 
