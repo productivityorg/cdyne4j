@@ -47,11 +47,7 @@ import org.productivity.cdyne4j.networkclient.AbstractCDYNENetworkClientSession;
  * @author Justin Yunke <justin-github@yunke.us>
  */
 public class MockCDYNENetworkClient extends AbstractCDYNENetworkClient {
-	private static String BASE = null;
-	
-	static {
-		BASE = MockCDYNENetworkClient.class.getPackage().getName().replace(".","/") + "/data";
-	}
+	private static String BASE = "org/productivity/cdyne4j/test/networkclient/mock/data";
 	
 	private class Session extends AbstractCDYNENetworkClientSession {
 		private static final long serialVersionUID = 1L;
